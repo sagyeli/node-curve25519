@@ -3,7 +3,7 @@
 #include <node_buffer.h>
 #include <string.h>
 #include <stdlib.h>
-#include <unistd.h>
+#include <io.h>
 #include "curve25519-donna.c"
 
 #include <nan.h>
